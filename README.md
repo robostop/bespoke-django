@@ -1,2 +1,2 @@
 # bespoke-django
-Web app built in Python on Django framework. A project where each invited user will have their own unique app and page experience.
+Web app built in Python on Django framework. A project where each invited user will have their own unique app and page experience. Users are by invite only and each django app is specificallly built for their individual use. Userbase is very limited and never more than 10 users would use the site. All authenticated users will have their unique database tables within the same database. A common area for users to interact with eachother may be added in the future.
